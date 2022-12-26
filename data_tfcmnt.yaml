@@ -8,7 +8,7 @@
 
 # download command/URL (optional)
 download: bash data/scripts/xxx.sh
-
+#add a test file my wanglei
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
 train: /kaggle/input/tfcmnt0818/tfcmnt0818/train.txt  # n images
 val: /kaggle/input/tfcmnt0818/tfcmnt0818/val.txt  # n images
